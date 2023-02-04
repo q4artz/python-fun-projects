@@ -1,1 +1,1 @@
-I am starting to like python again  
+I like python again  
